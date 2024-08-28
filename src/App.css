@@ -1,0 +1,11 @@
+.header-s {
+    margin: '0 auto';
+    width: '700px';
+    background-color: 'lightblue';
+    padding: '20px';
+}
+
+.form {
+    display: 'flex';
+    justify-content: 'center';
+}
